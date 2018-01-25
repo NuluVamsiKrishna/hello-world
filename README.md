@@ -1,2 +1,4 @@
 # hello-world
-just another reposiyory
+
+Hi
+ I like java contests and codevita contests..
